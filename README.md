@@ -4,7 +4,7 @@
 
 <h1 align="center"> I'm Beza!</h1>
 <h3 align="center">A Dedicated Developer</h3>
-<p align="center">Actively engaged in developing software products. I have some programming-adjacent experiences from school, bootcamp, and volunteer work. Not exhaustive but they revolved around infrastructure(Linux, VMware, Podman, Apache, MySQL), data analysis(Python, R, Tableau), UX research, and treasury work(cash management, audit). Looking forward to connecting with you!</p>
+<p align="center">Actively engaged in developing software products. I have some programming-adjacent experiences as well from school, bootcamp, and volunteer work. Not exhaustive but they revolved around infrastructure(Linux, VMware, Podman, Apache, MySQL), data analysis(Python, R, Tableau), UX research, and treasury work(cash management, audit). Looking forward to connecting with you!</p>
 <p align="center"> Faith, Tennis, Finance, Healthy living </p>
 
 <h3 align="center">Let's Connect:</h3>
